@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GridLayout</string>
+
+    <string name="bmi_calculator">
+        BMI Calculator
+    </string>
+
+    <string name="weight">
+        Weight
+    </string>
+
+    <string name="height">
+        Height
+    </string>
+
+    <string name="bmi">
+        Calculate
+    </string>
+    <string name="view_bmi">
+        BMI
+    </string>
+</resources>
